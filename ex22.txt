@@ -1,0 +1,48 @@
+puts prints a line to the screen.
+“” Double Quotation Marks are used to contain strings.
+# octothorpe or pound sign is used to make comments in the ruby code
++ used for addition and concating strings
+– used for subtraction
+* used for multiplication
+/ used for division
+% modulus or remainder
+< > less-than and greater-than
+<= less-than-equal
+>= greater-than-equal
+_ underscore character
+= equals, used for making names for things
+#{} embeds a variable inside a string.
+string makes something that can be passed through the program to the user.
+variable: any line of code where a name has been set (=) equal to a value.
+print prints a new line without a newline character behind it, unlike puts which has a newline character at the end.
+”single quotation marks, can also be used to create strings
+\ backslash used to escape sequences.
+\n puts a newline
+\\ escapes a backslash
+\’ escape a single quote
+\” escape a double quote
+\b backspace
+\r carriage return
+\t horizontal tab
+\v vertical tab
+gets = gets the input from the user
+.chomp = chomps off the newline created
+.to_i = converts a string to an integer
+.to_f = converts and integer to a floating point number
+ARGV = argument variable that holds the arguments you give to it when you run your script.
+“”” triple quote: multiline strings
+open(filename) method that takes a filename as its parameter and returns a file object.
+$stdin standard input
+read file object method that returns the contents of a file as a string
+.close file object method that closes the file
+readline reads only one line of a text file
+.truncate empties the file
+.write(‘stuff’) – writes ‘stuff‘ to the file
+.length is a string method that returns the length of a string
+target
+def – (define) creates a function
+end – ends the function
+*args similar to argv but for functions
+.seek looks for a specific location in a file and moves to that position.
++=  positive increment
+return exits a function and returns the value to the function caller

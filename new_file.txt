@@ -1,0 +1,3 @@
+line 1: This is stuff I Typed into a file
+line2: This accounting is really cool
+line3 :There's lot of pleasure in accounting
